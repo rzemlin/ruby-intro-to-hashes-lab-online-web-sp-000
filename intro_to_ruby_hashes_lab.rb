@@ -27,8 +27,7 @@ monopoly = {
 	    {
 	    :pieces => 4
 	    },{
-	    :names => 
-	    {}
+	    :names => {}
 	    }
 }
 end
